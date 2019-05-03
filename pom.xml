@@ -37,7 +37,6 @@
   <artifactId>hello-world</artifactId>
   <version>2.0</version>
   <packaging>hpi</packaging>
-  <scope>test</scope>
 
   <name>Hello World Example Plugin</name>
   <url>http://wiki.jenkins-ci.org/display/JENKINS/Hello+World+Plugin</url>
@@ -95,5 +94,13 @@
     <jenkins.version>1.580.1</jenkins.version>
     <java.level>6</java.level>
   </properties>
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>3.8.1</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
 
 </project>
