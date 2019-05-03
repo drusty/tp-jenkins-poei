@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Group-Id: org.jenkins-ci.plugins
+Short-Name: hello-world
+Long-Name: Hello World Example Plugin
+Url: http://wiki.jenkins-ci.org/display/JENKINS/Hello+World+Plugin
+Plugin-Version: 2.0
+Hudson-Version: 1.580.1
+Jenkins-Version: 1.580.1
+Plugin-Developers: Kohsuke Kawaguchi:kohsuke:kk@kohsuke.org,Jesse Fari
+ nacci:jieryn:jieryn@gmail.com
+Libraries: /root/work/tp-jenkins-poei/src/main/resources,/root/work/tp
+ -jenkins-poei/target/classes
+Resource-Path: /root/work/tp-jenkins-poei/src/main/webapp
+
