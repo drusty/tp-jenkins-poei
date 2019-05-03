@@ -5,6 +5,7 @@ package com.mycompany.app;
 import static org.junit.Assert.assertTrue;
 
 
+
 import org.junit.Test;
 
 
@@ -15,24 +16,24 @@ import org.junit.Test;
 
  */
 
-public class AppTest 
+public class CalculatriceTest 
 
 {
 
-    /**
+	/**
 
-     * Rigorous Test :-)
+	 * Rigorous Test :-)
 
-     */
+	 */
 
-    @Test
+	@Test
 
-    public void shouldAnswerWithTrue()
+	public void shouldAnswerWithTrue()
 
-    {
+	{
 
-        assertTrue( true );
+		assertTrue( true );
 
-    }
+	}
 
 }
