@@ -24,7 +24,7 @@ public class App
 
 	System.out.println( "Hello World! : multiplication " + c.multiplication(x, y));
 
-	System.out.println( "Hello World! :  soustraction" + c.soustraction(x, y));
+	System.out.println( "Hello World! :  soustraction " + c.soustraction(x, y));
 
 	System.out.println( "Hello World! :  division " + c.division(x, y));
 
